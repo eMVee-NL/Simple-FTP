@@ -11,8 +11,13 @@ This is a script for a Simple FTP Server. This script is created for uploading f
 ![Simple-FTP](https://github.com/eMVee-NL/Simple-FTP/blob/main/SimpleFTP.png?raw=true?raw=true)
 
 ### Get the script
+Clone the script
 ```
 git clone https://github.com/eMVee-NL/Simple-FTP.git
+```
+Install pyftpdlib
+```
+pip install pyftpdlib
 ```
 
 ### Usage
