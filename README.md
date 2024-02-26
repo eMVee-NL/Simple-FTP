@@ -21,7 +21,7 @@ pip install pyftpdlib
 ```
 
 ### Usage
-Default it wil use any IP address and port 80
+Default it wil use any IP address and port 21
 ```
 sudo python3 simpleftp.py
 ```
