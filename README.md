@@ -27,5 +27,5 @@ sudo python3 simpleftp.py
 ```
 Example with an IP address and another port
 ```
-python3 simpleftp.py 192.168.1.12 2121
+python3 simpleftp.py --ip 192.168.1.12 --port 2121
 ```
